@@ -1,0 +1,23 @@
+{
+  "name": "cascade-pro-extender",
+  "version": "1.0.0",
+  "description": "Cascade Pro Extender extends the capabilities of Cascade Utility, offering advanced customization and optimization features for blockchain solutions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenmunsir/cascade-pro-extender"
+  },
+  "author": "wenmunsir",
+  "license": "MIT",
+  "dependencies": {
+    "blockchain-cascade-utility": "1.0.0",
+    "cascade-pro-extender": "1.0.0",
+    "redux": "1.0.0",
+    "sequelize": "1.0.0",
+    "helmet": "1.0.0",
+    "truffle": "1.0.0"
+  }
+}
